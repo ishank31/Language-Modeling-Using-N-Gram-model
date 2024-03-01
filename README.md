@@ -1,8 +1,4 @@
-# INLP Assignment - 1
-
-## Name: Ishan Kavathekar
-
-## Roll No: 2022121003
+# INLP Assignment - 1 : Language Modeling Using N-Gram Model
 
 ### Files included:
 
